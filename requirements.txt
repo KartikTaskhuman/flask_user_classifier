@@ -1,5 +1,6 @@
 Flask
 uwsgi
 numpy
+scipy
 sklearn
 s3fs
